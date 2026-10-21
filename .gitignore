@@ -1,0 +1,6 @@
+__pycache__/
+food_delivery_data.json
+food_delivery_orders.sqlite3
+food_delivery_orders.sqlite3-shm
+food_delivery_orders.sqlite3-wal
+invoice_*.html
